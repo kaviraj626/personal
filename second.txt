@@ -1,1 +1,2 @@
 how to use push pull requests in git
+Made changes via github interface
